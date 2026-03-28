@@ -1,24 +1,3 @@
-# qianduan
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+结合后端来使用
+百度网盘通过网盘分享的文件：zonghe.zip
+链接: https://pan.baidu.com/s/1J4Lq9fFf9kuPi5WMWS3V6A?pwd=1234 提取码: 1234
